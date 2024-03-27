@@ -1,4 +1,5 @@
 -- 2027/3/2024 | 00:00 AM - 00:26 AM --
+
 Project by ALTRRX
 
 wazzup lulz i made a garbaje maekr! i use batch becausss lua hard and i use screartch! and barthc!11 i develop bobox gaem but ye this is a garbej meker it uses %random% to maek numbre!11 plz run in admin or windows bully and dont let yu!11 admin makes window beg for admin!1111 like in bobox!
