@@ -7,12 +7,17 @@ pause
 echo Remember. YOU ARE PLAYING WITH FIRE (dont commit arson too!) THIS IS SERIOUS.
 echo AND YOU ARE PLAYING WITH YOUR HEALTH TOO. PLEASE DONT RUN THIS IF YOU HAVE EPILEPSY OR SEIZURES!!!!
 pause
+clear
 :create1
+clear
+echo GARBAGE
 color f0
-"%random%" > C:\Users\Public\Desktop\Garbage Folder\%random%_garbage.txt
+"%random%%random%" > C:\Users\Public\Desktop\Garbage Folder\%random%_garbage.txt
 goto :create2
 
 :create2
+clear
+echo WARE
 color 0f
-"%random%" > C:\Users\Public\Desktop\Garbage Folder\%random%_garbage.txt
+"%random%%random%" > C:\Users\Public\Desktop\Garbage Folder\%random%_garbage.txt
 goto :create1
